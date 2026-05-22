@@ -53,17 +53,27 @@ The analysis uses four core FAERS tables:
 - Drug Role Distribution (Primary Suspect vs Secondary Suspect)
 - Top Drug–Reaction Pairs
 
-## Visualizations
-> Replace the placeholders below with project screenshots once available.
+## Sample Visualizations
 
-### Python / Matplotlib Visuals
-![Age Distribution Placeholder](./assets/screenshots/age-distribution.png)
-![Top Reactions Placeholder](./assets/screenshots/top-reactions.png)
-![Top Drugs Placeholder](./assets/screenshots/top-drugs.png)
+### Age Distribution
+![Age Distribution](images/age_distribution.png)
+*Distribution of adverse event reports across patient age groups.*
 
-### Power BI Dashboard Views
-![Dashboard Overview Placeholder](./assets/screenshots/powerbi-dashboard-overview.png)
-![Outcome Analysis Placeholder](./assets/screenshots/powerbi-outcome-analysis.png)
+### Gender Distribution
+![Gender Distribution](images/gender_distribution.png)
+*Breakdown of reported adverse events by patient gender.*
+
+### Top Reported Reactions
+![Top Reported Reactions](images/top_20_reactions_distribution.png)
+*Most frequently reported adverse reactions in the FAERS dataset.*
+
+### Young vs Elderly Reaction Patterns
+![Young vs Elderly Reaction Patterns](images/reaction_young_vs_elderly.png)
+*Comparison of reaction patterns between younger and elderly patients.*
+
+### Top Drug–Reaction Associations
+![Top Drug–Reaction Associations](images/top_20_drug_reactions.png)
+*Leading drug–reaction combinations by reporting frequency.*
 
 ## Key Findings
 - Reporting volume varies significantly by age bands, with clear differences in severe outcome rates.

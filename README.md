@@ -1,5 +1,9 @@
 # FAERS Adverse Event Analysis
 
+<p align="center">
+  <img src="images/faers_logo.png" alt="FAERS Logo" width="350" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)

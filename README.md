@@ -89,27 +89,6 @@ The analysis uses four core FAERS tables:
 - **Google Colab**
 - **Power BI**
 
-## Repository Structure
-Current repository contents:
-
-```text
-.
-└── README.md
-```
-
-Recommended analytical project organization:
-
-```text
-.
-├── data/
-├── notebooks/
-├── scripts/
-├── powerbi/
-├── assets/
-│   └── screenshots/
-└── README.md
-```
-
 ## Future Enhancements
 - Add temporal trend analysis (monthly/quarterly change in reaction frequency)
 - Integrate disproportionality metrics (e.g., PRR/ROR) for stronger signal detection
